@@ -13,11 +13,18 @@ h1{
 main{
     background-color: #ebe9e5;
 }
-h2{font-size: 52px;
+h2{font-size: 48px;
 color: coral;
 
 }
-h4{font-size: 36px;
+h4{font-size: 34px;
 color: coral;
 
+}
+h3{
+    font-size:34 ;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
