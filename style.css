@@ -26,5 +26,12 @@ h3{
 }
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
+.list-inside li {
+    list-style-position: inside;
+  }
+  :link    { color: blue;  }
+  a:visited { color: darkblue;   }
+  a:hover   { color: darkcyan; }
+  a:active  { color: darkgray;  }  
