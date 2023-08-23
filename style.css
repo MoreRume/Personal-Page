@@ -6,11 +6,18 @@ body{
     text-align: center;
 }
 h1{
-    font: size 72px; ;
+    font-size: 72px;
     font-family: fantasy;
     color: #7b0909;
 }
 main{
     background-color: #ebe9e5;
 }
-h2{font-size: 58px;}
+h2{font-size: 52px;
+color: coral;
+
+}
+h4{font-size: 36px;
+color: coral;
+
+}
