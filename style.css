@@ -3,6 +3,8 @@ text-align: center;
     background-color: #F2C14E;
     margin: 0%;
     font-family: fantasy;
+    border: 0px;
+    padding: 0%;
 }
 body{ 
     text-align: center;
@@ -41,6 +43,6 @@ p{
     font-size: 24px;
   }
   footer{
-
+font-size: 18px;
     background-color: #F2C14E !important;
   }
