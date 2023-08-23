@@ -46,7 +46,9 @@ p{
 font-size: 18px;
     background-color: #F2C14E !important;
   }
-  article{
-    margin: 0px, 100px;
-    padding: 0%, 5%;
-  }
+ div.centered{
+
+ 
+        margin: 0px, 100px;
+        padding: 0%, 5%;
+ }
