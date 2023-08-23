@@ -1,7 +1,8 @@
 header{
 text-align: center;
-    background-color: coral;
+    background-color: #F2C14E;
     margin: 0%;
+    font-family: fantasy;
 }
 body{
     text-align: center;
@@ -9,17 +10,17 @@ body{
 h1{
     font-size: 72px;
     font-family: fantasy;
-    color: #7b0909;
+    color: #F78154;
 }
 main{
     background-color: #ebe9e5;
 }
 h2{font-size: 48px;
-color: coral;
+color: #4D9078;
 
 }
 h4{font-size: 34px;
-color: coral;
+color: #4D9078;
 
 }
 h3{
@@ -36,3 +37,7 @@ p{
   a:visited { color: darkblue;   }
   a:hover   { color: darkcyan; }
   a:active  { color: darkgray;  }  
+  li{
+    font-weight: bold;
+    font-size: 24px;
+  }
