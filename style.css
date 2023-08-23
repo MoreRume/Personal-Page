@@ -4,17 +4,16 @@ text-align: center;
     margin: 0%;
     font-family: fantasy;
 }
-body{
+body{ 
     text-align: center;
+    background-color: #ebe9e5;
 }
 h1{
     font-size: 72px;
     font-family: fantasy;
     color: #F78154;
 }
-main{
-    background-color: #ebe9e5;
-}
+
 h2{font-size: 48px;
 color: #4D9078;
 
@@ -40,4 +39,8 @@ p{
   li{
     font-weight: bold;
     font-size: 24px;
+  }
+  footer{
+
+    background-color: #F2C14E !important;
   }
