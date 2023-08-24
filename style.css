@@ -53,3 +53,6 @@ font-size: 18px;
 h1, h3 {
     margin: 0; /* Reset margin for headings */
 }
+footer p {
+    margin: 0; /* Reset margin for paragraphs */
+}
