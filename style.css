@@ -49,3 +49,6 @@ font-size: 18px;
  div.centered{
         padding: 0% 20%;
  }
+ header h1, h3 {
+    margin: 0; /* Reset margin for headings */
+}
