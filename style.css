@@ -45,10 +45,11 @@ p{
   footer{
 font-size: 18px;
     background-color: #F2C14E !important;
+    margin: 0;
   }
  div.centered{
         padding: 0% 20%;
  }
- header h1, h3 {
+h1, h3 {
     margin: 0; /* Reset margin for headings */
 }
