@@ -6,6 +6,8 @@ text-align: center;
     border: 0px;
     padding: 0%;
 }
+/* aligning and styling the header */
+/*the folowing is styling the body, headers, and the paragraghs */
 body{ 
     text-align: center;
     background-color: #ebe9e5;
@@ -31,9 +33,11 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+/*this makes those annoying bullet points centered */
 .list-inside li {
     list-style-position: inside;
   }
+  /*this changes the link color based on usage */
   :link    { color: blue;  }
   a:visited { color: darkblue;   }
   a:hover   { color: darkcyan; }
@@ -48,7 +52,7 @@ font-size: 18px;
     margin: 0;
   }
  div.centered{
-        padding: 0% 20%;
+        padding: 0% 20%;/*this kept my text from stretching all the way across the screen, gross */
  }
 h1, h3 {
     margin: 0; /* Reset margin for headings */
