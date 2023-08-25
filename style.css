@@ -1,6 +1,6 @@
 header{
 text-align: center;
-    background-color: #F2C14E;
+    background-color: #3C362A;
     margin: 0px;
     font-family: fantasy;
     border: 0px;
@@ -10,20 +10,20 @@ text-align: center;
 /*the folowing is styling the body, headers, and the paragraghs */
 body{ 
     text-align: center;
-    background-color: #ebe9e5;
+    background-color: #C9D6EA;
 }
 h1{
     font-size: 72px;
     font-family: fantasy;
-    color: #F78154;
+    color: #663F46;
 }
 
 h2{font-size: 48px;
-color: #4D9078;
+color: #663F46;
 
 }
 h4{font-size: 34px;
-color: #4D9078;
+color: #663F46;
 
 }
 h3{
@@ -48,7 +48,7 @@ p{
   }
   footer{
 font-size: 18px;
-    background-color: #F2C14E !important;
+    background-color: #3C362A !important;
     margin: 0;
   }
  div.centered{
