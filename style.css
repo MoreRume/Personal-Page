@@ -53,10 +53,12 @@ font-size: 18px;
   }
  div.centered{
         padding: 0% 20%;/*this kept my text from stretching all the way across the screen, gross */
- }
+    height: 100%;
+}
 h1, h3 {
     margin: 0; /* Reset margin for headings */
 }
 footer p {
+    height: 32 px;
     margin: 0; /* Reset margin for paragraphs */
 }
