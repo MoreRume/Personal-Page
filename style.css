@@ -59,6 +59,6 @@ h1, h3 {
     margin: 0; /* Reset margin for headings */
 }
 footer p {
-    height: 72 px;
+    height: 72 px;!important
     margin: 0; /* Reset margin for paragraphs */
 }
